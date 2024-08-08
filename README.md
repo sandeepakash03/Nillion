@@ -9,7 +9,7 @@ Parameters:
 Example:
 bash
 Copy code
-!nada init my-awesome-project
+<!-- !nada init my-awesome-project -->
 
 ### Project Structure
 my-awesome-project/
